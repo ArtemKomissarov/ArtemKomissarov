@@ -33,15 +33,15 @@
 - :seedling:
   Изучаю тестирование с 2022 года 👨‍🎓 <br> 
   
-Проходил обучающие курсы на [Tel-Ran](https://www.tel-ran.com/sqa-course) по программе ***"QA Automation Testing"*** и имею следующий сертификат:  
+📌Проходил обучающие курсы на [Tel-Ran](https://www.tel-ran.com/sqa-course) по программе ***"QA Automation Testing"*** и имею следующий сертификат:  
   
 🧾 [QA Manual And Automation Software Testing](https://github.com/ArtemKomissarov/ArtemKomissarov/blob/19599289a07f4430943611614adff6dc6a82ec34/__%D7%A7%D7%95%D7%9E%D7%99%D7%A1%D7%A8%D7%95%D7%91%20%D7%90%D7%A8%D7%98%D7%99%D7%95%D7%9D_-1.png) <br>
 
-Успешно прошел сертификацию ***"ISTQB Foundation Level"***
+📌Успешно прошел сертификацию ***"ISTQB Foundation Level"***
 
 🧾 [Сертификация ISTQB Foundation Level](https://github.com/ArtemKomissarov/ArtemKomissarov/blob/460ab8f7c20c645a48d40123397f1e5e2e0ae3ca/Certificate_114589_CTFL4_0-___Komissarov_01_01_3000-1.png) <br>
 
-Сейчас прохожу обучение в Московском финансово-промышленном университете «Синергия» по специальности **Тестирование и DevOps**. <br><br>
+📌Сейчас прохожу обучение в Московском финансово-промышленном университете «Синергия» по специальности **Тестирование и DevOps**. <br><br>
 
   - теория тестирования, тестовая документация, Test case, Check-list, Bug Reporting, API, HTML, JAVA, Maven, TestNG, Selenium, Git, GitHub, SQL.
   
