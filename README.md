@@ -45,15 +45,9 @@
 
 
 
-Сейчас прохожу обучение в [Нетологии](https://netology.ru/) по программе ***"Инженер по тестированию: расширенный курс"*** и имею следующие сертификаты:  
+Сейчас прохожу обучение в Московском финансово-промышленном университете «Синергия» по специальности **Тестирование и DevOps**.  
 
-🧾 [Ручное тестирование веб-приложений](https://netology.ru/sharing/0b901c3a51b5e9c0c13bef42e89c2bb3?utm_source=social&utm_campaign=certificate_lms )
-
-🧾 [Git — система контроля версий](https://netology.ru/sharing/847c73c7cd93a399e9aea4104c4eea60?utm_source=social&utm_campaign=certificate_lms )
-
-🧾 [Java для тестировщиков](https://netology.ru/sharing/3e906f7aaf1f760bff70776a357641de?utm_source=social&utm_campaign=certificate_lms )
-
-🧾 [Автоматизированное тестирование](https://netology.ru/sharing/36521d28dc581e6da4d4ab6629da8b07?utm_source=social&utm_campaign=achievements)  
+ 
 
   Знания: теория тестирования, тестовая документация, Test case, Check-list, Bug Reporting, API, HTML, JAVA, Maven, TestNG, Selenium, Git, GitHub, SQL.
   
