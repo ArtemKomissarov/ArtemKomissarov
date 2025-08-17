@@ -38,9 +38,11 @@
 🧾 [QA Manual And Automation Software Testing](https://github.com/ArtemKomissarov/ArtemKomissarov/blob/19599289a07f4430943611614adff6dc6a82ec34/__%D7%A7%D7%95%D7%9E%D7%99%D7%A1%D7%A8%D7%95%D7%91%20%D7%90%D7%A8%D7%98%D7%99%D7%95%D7%9D_-1.png)
 
 
+
 Успешно прошел сертификацию ***"ISTQB Foundation Level"***
 
 🧾 [Сертификация ISTQB Foundation Level](https://github.com/ArtemKomissarov/ArtemKomissarov/blob/460ab8f7c20c645a48d40123397f1e5e2e0ae3ca/Certificate_114589_CTFL4_0-___Komissarov_01_01_3000-1.png)
+
 
 
 Сейчас прохожу обучение в [Нетологии](https://netology.ru/) по программе ***"Инженер по тестированию: расширенный курс"*** и имею следующие сертификаты:  
