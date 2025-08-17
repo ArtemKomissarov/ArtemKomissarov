@@ -51,13 +51,13 @@
 
  
 
-  теория тестирования, тестовая документация, Test case, Check-list, Bug Reporting, API, HTML, JAVA, Maven, TestNG, Selenium, Git, GitHub, SQL.
+  - теория тестирования, тестовая документация, Test case, Check-list, Bug Reporting, API, HTML, JAVA, Maven, TestNG, Selenium, Git, GitHub, SQL.
   
-  Базовые знания автотестирования Java: написание автотестов к сайту: intellij idea, Junit, Selenium, TestNG, Maven, Gradle, Git .
+  - Базовые знания автотестирования Java: написание автотестов к сайту: intellij idea, Junit, Selenium, TestNG, Maven, Gradle, Git .
   
-  SQL: Основы SQL, работа с данными. Использовала инструменты: MySQL, postgreSQL, DBeaver.
+  - SQL: Основы SQL, работа с данными. Использовала инструменты: MySQL, postgreSQL, DBeaver.
   
-  Работа с DevTools и CSS Selectors.
+  - Работа с DevTools и CSS Selectors.
 
 - :zap:
 В планах более детальное изучение manual test и в будущем развивать знания automatization test.
