@@ -47,9 +47,11 @@
 
 Сейчас прохожу обучение в Московском финансово-промышленном университете «Синергия» по специальности **Тестирование и DevOps**.  
 
+
+
  
 
-  Знания: теория тестирования, тестовая документация, Test case, Check-list, Bug Reporting, API, HTML, JAVA, Maven, TestNG, Selenium, Git, GitHub, SQL.
+  теория тестирования, тестовая документация, Test case, Check-list, Bug Reporting, API, HTML, JAVA, Maven, TestNG, Selenium, Git, GitHub, SQL.
   
   Базовые знания автотестирования Java: написание автотестов к сайту: intellij idea, Junit, Selenium, TestNG, Maven, Gradle, Git .
   
