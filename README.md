@@ -37,9 +37,10 @@
   
 🧾 [QA Manual And Automation Software Testing](https://github.com/ArtemKomissarov/ArtemKomissarov/blob/19599289a07f4430943611614adff6dc6a82ec34/__%D7%A7%D7%95%D7%9E%D7%99%D7%A1%D7%A8%D7%95%D7%91%20%D7%90%D7%A8%D7%98%D7%99%D7%95%D7%9D_-1.png)
 
-🧾 [Тестирование ПО. Уровень 2](https://gb.ru/certificates/694529)
+Успешно прошел сертификацию ***"ISTQB Foundation Level"***
 
-🧾 [Введение в автоматизацию тестирования](https://gb.ru/certificates/722182)
+🧾 [Сертификация ISTQB Foundation Level](https://gb.ru/certificates/694529)
+
 
 Сейчас прохожу обучение в [Нетологии](https://netology.ru/) по программе ***"Инженер по тестированию: расширенный курс"*** и имею следующие сертификаты:  
 
