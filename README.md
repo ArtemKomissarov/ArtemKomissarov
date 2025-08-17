@@ -41,9 +41,7 @@
 
 Успешно прошел сертификацию ***"ISTQB Foundation Level"***
 
-🧾 [Сертификация ISTQB Foundation Level](https://github.com/ArtemKomissarov/ArtemKomissarov/blob/460ab8f7c20c645a48d40123397f1e5e2e0ae3ca/Certificate_114589_CTFL4_0-___Komissarov_01_01_3000-1.png)
-
-
+🧾 [Сертификация ISTQB Foundation Level](https://github.com/ArtemKomissarov/ArtemKomissarov/blob/460ab8f7c20c645a48d40123397f1e5e2e0ae3ca/Certificate_114589_CTFL4_0-___Komissarov_01_01_3000-1.png) <br><br>
 
 Сейчас прохожу обучение в Московском финансово-промышленном университете «Синергия» по специальности **Тестирование и DevOps**. <br><br>
 
