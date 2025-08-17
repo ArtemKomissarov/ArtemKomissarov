@@ -35,7 +35,7 @@
   
 Проходил обучающие курсы на [Tel-Ran](https://www.tel-ran.com/sqa-course) по программе ***"QA Automation Testing"*** и имею следующий сертификат:  
   
-🧾 [QA Manual And Automation Software Testing](https://gb.ru/certificates/654631)
+🧾 [QA Manual And Automation Software Testing](https://github.com/ArtemKomissarov/ArtemKomissarov/blob/19599289a07f4430943611614adff6dc6a82ec34/__%D7%A7%D7%95%D7%9E%D7%99%D7%A1%D7%A8%D7%95%D7%91%20%D7%90%D7%A8%D7%98%D7%99%D7%95%D7%9D_-1.png)
 
 🧾 [Тестирование ПО. Уровень 2](https://gb.ru/certificates/694529)
 
