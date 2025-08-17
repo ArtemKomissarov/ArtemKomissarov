@@ -11,11 +11,11 @@
 
 
 <div align="center">
-<a align="left"> <img src="https://komarev.com/ghpvc/?username=vasilyerm&label=Profile%20views&color=0e75b6&style=flat" alt="vasilyerm" /> </a>
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=ArtemKomissarov&label=Profile%20views&color=0e75b6&style=flat" alt="ArtemKomissarov" /> </a>
 
 
 ###
-<h1 align="center">Привет <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />, меня зовут Василий!</h1>
+<h1 align="center">Привет <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />, меня зовут Артём!</h1>
 
 
 
@@ -24,18 +24,18 @@
 <div align="left">
 
 ### :man_technologist: About Me :
-Меня зовут Василий, я начинающий QA Engineer 🐞  
+Меня зовут Артём, я начинающий QA Engineer 🐞  
 
 - :telescope:
 Сейчас нахожусь в поиске работы 🕵️  
 
 
 - :seedling:
-  Изучаю тестирование с 2019 года 👨‍🎓  
+  Изучаю тестирование с 2022 года 👨‍🎓  
   
-Проходил обучающие курсы на [GeekBrains](https://gb.ru/) по программе ***"Тестировщик ПО"*** и имею следующие сертификаты:  
+Проходил обучающие курсы на [Tel-Ran](https://www.tel-ran.com/sqa-course) по программе ***"QA Automation Testing"*** и имею следующий сертификат:  
   
-🧾 [Основы тестирования ПО](https://gb.ru/certificates/654631)
+🧾 [QA Manual And Automation Software Testing](https://gb.ru/certificates/654631)
 
 🧾 [Тестирование ПО. Уровень 2](https://gb.ru/certificates/694529)
 
