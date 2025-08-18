@@ -47,14 +47,14 @@
 
   - теория тестирования, тестовая документация, Test case, Check-list, Bug Reporting, API, HTML, JAVA, Maven, TestNG, Selenium, Git, GitHub, SQL.
   
-  - Базовые знания автотестирования Java: написание автотестов к сайту: intellij idea, Junit, Selenium, TestNG, Maven, Gradle, Git .
+  - Базовые знания автотестирования Java: intellij idea, Junit, Selenium, TestNG, Maven, Gradle, Git .
   
-  - SQL: Основы SQL, работа с данными. Использовала инструменты: MySQL, postgreSQL, DBeaver.
+  - SQL: Основы SQL, работа с данными. Использовала инструменты: MySQL, postgreSQL.
   
   - Работа с DevTools и CSS Selectors.
 
 - :zap:
-В планах более детальное изучение manual test и в будущем развивать знания automatization test.
+В планах более детальное изучение manual test и развивать знания automatization test.
 
 ---
 
@@ -77,7 +77,7 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 <div align="center">
-<a href="https://github.com/VasilyErm" target="_blank">
+<a href="https://github.com/artkomi" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
@@ -85,7 +85,7 @@
 <div align="left">
   
 ### :fire: My Stats :
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasilyErm&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemKomissarov&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
