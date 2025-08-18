@@ -45,7 +45,7 @@
 
 ***"Знания"***
 
-  - теория тестирования, тестовая документация, Test case, Check-list, Bug Reporting, API, HTML, JAVA, Maven, TestNG, Selenium, Git, GitHub, SQL.
+  - теория тестирования, тестовая документация, API, HTML, JAVA, Maven, TestNG, Selenium, Git, GitHub, SQL.
   
   - Базовые знания автотестирования Java: intellij idea, Junit, Selenium, TestNG, Maven, Gradle, Git .
   
@@ -68,6 +68,9 @@
 ![WebDriver](https://img.shields.io/badge/WebDriver-black?style=for-the-badge&logo=WebDriver&logoColor=orange)
 ![Maven/Gradle](https://img.shields.io/badge/Maven/Gradle-black?style=for-the-badge&logo=Maven/Gradle&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=blue)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=violet)
+![Appium](https://img.shields.io/badge/Appium-8B5CF6?style=for-the-badge&logo=appium&logoColor=black)
 
 ---
 
