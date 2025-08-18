@@ -73,11 +73,11 @@
 
 ### :mailbox: Connect with me  
 <div align="center">
-<a href="https://t.me/Vasily_Ermolaev" target="_blank">
+<a href="https://t.me/artkomi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 <div align="center">
-<a href="https://github.com/artkomi" target="_blank">
+<a href="https://github.com/ArtemKomissarov" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
