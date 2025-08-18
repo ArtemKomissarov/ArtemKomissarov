@@ -69,8 +69,8 @@
 ![Maven/Gradle](https://img.shields.io/badge/Maven/Gradle-black?style=for-the-badge&logo=Maven/Gradle&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=blue)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=violet)
-![Appium](https://img.shields.io/badge/Appium-8B5CF6?style=for-the-badge&logo=appium&logoColor=red)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-8B5CF6?style=for-the-badge&logo=appium&logoColor=white)
 
 ---
 
